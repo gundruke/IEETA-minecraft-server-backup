@@ -3265,6 +3265,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-06-18 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-06-18 21:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2023-06-18 21:56:25 +0000"
@@ -3277,15 +3289,45 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "enchanted_item": "2023-06-18 21:46:59 +0000"
+      "has_amethyst_shard": "2023-06-19 10:13:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
+  "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
-      "has_cactus": "2023-06-18 21:22:07 +0000"
+      "has_amethyst_shard": "2023-06-19 10:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-19 10:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-19 10:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-06-20 19:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-06-20 19:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-06-20 19:31:23 +0000"
     },
     "done": true
   },
