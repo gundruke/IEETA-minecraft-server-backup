@@ -5170,5 +5170,17 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-08-25 12:11:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_book": "2023-08-25 11:55:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
