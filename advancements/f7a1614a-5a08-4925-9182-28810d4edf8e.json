@@ -26,6 +26,7 @@
       "minecraft:desert": "2023-06-18 14:31:11 +0000",
       "minecraft:ocean": "2023-06-10 16:05:37 +0000",
       "minecraft:snowy_beach": "2023-06-28 20:21:45 +0000",
+      "minecraft:windswept_savanna": "2023-08-26 13:31:21 +0000",
       "minecraft:flower_forest": "2023-06-10 16:08:15 +0000",
       "minecraft:old_growth_birch_forest": "2023-06-10 16:26:56 +0000",
       "minecraft:meadow": "2023-06-10 16:31:56 +0000",
@@ -5170,15 +5171,87 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_book": "2023-08-25 11:55:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2023-08-25 12:11:24 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/stackable_book": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_book": "2023-08-25 11:55:49 +0000"
+      "has_rose_bush": "2023-08-26 13:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2023-08-26 13:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-08-26 13:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2023-08-26 13:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2023-08-26 13:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-08-26 13:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2023-08-26 13:59:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2023-08-26 14:31:40 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2023-08-26 14:31:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-08-26 14:31:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-08-26 14:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2023-08-26 17:18:17 +0000"
     },
     "done": true
   },

@@ -1,0 +1,45 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-08-26 10:23:34 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2023-08-26 10:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-26 10:23:34 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-08-26 10:23:34 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2023-08-26 10:23:34 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2023-08-26 10:23:34 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-08-26 10:23:34 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
