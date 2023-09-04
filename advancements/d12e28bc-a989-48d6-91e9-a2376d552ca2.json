@@ -6888,5 +6888,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2023-09-03 19:58:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
